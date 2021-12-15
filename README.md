@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋
+I am a software developer who likes travels 🌴, play soccer ⚽, watching movies 🎥 and training 🏋🏻!!!
+
+- 🔭 I’m currently working at [Zup Innovation](https://www.zup.com.br/), and learning a bit about life and technologie everyday.
+- 🌱 I’m currently learning Hexagonal Architecture to help my team on work.
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Tales313)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tales-medeiros/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/taless.98/)
 
 <!--
 **Tales313/Tales313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
