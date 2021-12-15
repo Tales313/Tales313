@@ -5,8 +5,6 @@ I am a software developer who likes travels 🌴, play soccer ⚽, watching movi
 - 🌱 I’m currently learning Hexagonal Architecture 👨‍🔧 to help my team on work.
 - 👯 I love talking and meeting different people so if you want to say hi, I'll be happy!
 
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
-
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Tales313)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
