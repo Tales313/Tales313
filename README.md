@@ -1,8 +1,8 @@
 ### Hi 👋
-I am a software developer who likes travels 🌴, play soccer ⚽, watching movies 🎥 and training 🏋🏻!!!
+I am a software developer who likes travels 🌴, watching movies 🎥 and training 🏋🏻!!!
 
-- 🔭 I’m currently working at [Zup Innovation](https://www.zup.com.br/), and learning a bit about life and technologie everyday.
-- 🌱 I’m currently learning Hexagonal Architecture 👨‍🔧 to help my team on work.
+- 🔭 I’m currently working at [Zup Innovation](https://www.zup.com.br/).
+- 🌱 I’m currently learning React to make my portfolio.
 - 👯 I love talking and meeting different people so if you want to say hi, I'll be happy!
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Tales313)
