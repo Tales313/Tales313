@@ -1,7 +1,7 @@
 ### Hi 👋
-I am a software developer who likes travels 🌴, watching movies 🎥 and training 🏋🏻!!!
+I am a backend software developer who likes travels 🌴, watching movies 🎥 and training 🏋🏻!!!
 
-- 🔭 I’m currently working at [Zup Innovation](https://www.zup.com.br/).
+- 🔭 I’m currently working at [Zup Innovation](https://www.zup.com.br/) with Java and Spring!
 - 🌱 I’m currently learning React to make my portfolio.
 - 👯 I love talking and meeting different people so if you want to say hi, I'll be happy!
 
